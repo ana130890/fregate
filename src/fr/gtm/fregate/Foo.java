@@ -1,0 +1,5 @@
+package fr.gtm.fregate;
+
+public class Foo {
+	public void bar(){}
+}
