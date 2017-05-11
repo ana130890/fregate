@@ -4,8 +4,8 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("Hello, GIT");
-		System.out.println("une bière, Ana??");
-
+		System.out.println("une biï¿½re, Ana??");
+		System.out.println("Modification abusÃ©e");
 	}
 
 }
